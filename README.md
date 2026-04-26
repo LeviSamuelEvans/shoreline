@@ -1,4 +1,4 @@
-![Shoreline](assets/shoreline.svg)
+![Shoreline](assets/shoreline_background.svg)
 
 ![status](https://img.shields.io/badge/status-in%20development-blue)
 
