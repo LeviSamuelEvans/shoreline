@@ -1,0 +1,17 @@
+.DS_Store
+
+.env
+.env.*
+!.env.example
+
+.gocache/
+
+# Shoreline local config (commonly used in dev via SHORELINE_CONFIG_DIR="$(pwd)/.shoreline")
+.shoreline/
+
+# binary
+sl
+
+# notes and findings
+.notes/
+
