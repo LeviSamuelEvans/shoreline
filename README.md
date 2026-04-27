@@ -1,6 +1,6 @@
 ![Shoreline](assets/shoreline_background.svg)
 
-![status](https://img.shields.io/badge/status-in%20development-blue)
+[![status](https://img.shields.io/badge/status-in--development-blue)](https://github.com/levievans/shoreline) [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![Go Reference](https://pkg.go.dev/badge/github.com/levievans/shoreline.svg)](https://pkg.go.dev/github.com/levievans/shoreline) [![ci](https://github.com/levievans/shoreline/actions/workflows/ci.yml/badge.svg)](https://github.com/levievans/shoreline/actions/workflows/ci.yml)
 
 `shoreline` is a SoundCloud terminal player, written in Go, so you can keep control of your tunes right next to your code.
 
